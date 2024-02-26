@@ -1,1 +1,15 @@
-null[piros asztal:, Gyümölcsleves        , Somlói galuska][Zöld asztal:, Gyümölcsleves        , Somlói galuska]
+Piros
+Babgulyás
+Rántott Sajt
+
+Zöld
+Gyümölcsleves
+Bécsi szelet
+Somlói galuska
+
+Kék
+Gyümölcsleves
+Rántott sajt
+
+Fehér
+Bécsi szelet
